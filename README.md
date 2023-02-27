@@ -13,13 +13,13 @@ Select React > Javascript
 
 
 
-##Step: 2: Install the Tailwindcss along with its relevent dependencies
+## Step: 2: Install the Tailwindcss along with its relevent dependencies
 
 ```
 npm install -D tailwindcss postcss autoprefixer
 ```
 
-##step 3: Generate the configuration files
+## step 3: Generate the configuration files
 
 ```
 npx tailwindcss init -p
@@ -39,7 +39,7 @@ module.exports = {
 
 ```
 
-##step: 4 add imports to ./src/index.css file
+## step: 4 add imports to ./src/index.css file
 
 ```
 @tailwind base;
@@ -47,7 +47,7 @@ module.exports = {
 @tailwind utilities;
 ```
 
-##Step: 5: Start the project
+## Step: 5: Start the project
 
 ```
 yarn dev
