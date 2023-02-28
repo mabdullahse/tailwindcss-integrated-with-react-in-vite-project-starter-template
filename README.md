@@ -11,6 +11,11 @@ Write a project name afterwards.
 
 Select React > Javascript
 
+Or User this command if you to directly slect React
+
+```
+npm create vite@latest your-project-name -- --template react
+```
 
 
 ## Step: 2: Install the Tailwindcss along with its relevent dependencies
