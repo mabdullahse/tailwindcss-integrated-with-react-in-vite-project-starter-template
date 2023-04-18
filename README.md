@@ -15,6 +15,8 @@ Or User this command if you to directly slect React
 
 ```
 npm create vite@latest your-project-name -- --template react
+
+npm init vite@latest your-project-name -- --template react-ts
 ```
 
 
